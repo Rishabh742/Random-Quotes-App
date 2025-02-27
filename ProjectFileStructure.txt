@@ -1,0 +1,11 @@
+
+1. Project Structure
+
+   random_quotes_app/
+   ├── android/                
+   ├── ios/                    
+   ├── lib/
+   │    └── main.dart           
+   ├── pubspec.yaml            
+   ├── README.md               
+   └── (other auto-generated Flutter files)

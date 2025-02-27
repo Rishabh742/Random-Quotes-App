@@ -1,0 +1,18 @@
+
+4.  Running the App
+
+    (a) Install Flutter and Dependencies:
+
+     Ensure that Flutter is installed on your machine. In the project root, run:
+
+    		flutter pub get
+
+    (b) Launch the App:
+
+      Start the app on an emulator or connected device by running:
+
+		flutter run
+
+    (c) Capture a Screenshot:
+
+      Once the app is running and you’ve fetched a quote, take a screenshot from your emulator or device to include with your submission.
